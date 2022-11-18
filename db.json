@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "vcemm",
+      "email": "vcemm@gmail.com",
+      "mobile": "84",
+      "city": "kin"
+    },
+    {
+      "id": 2,
+      "name": "cedric",
+      "email": "vcemm@gmail.com",
+      "mobile": "85",
+      "city": "test"
+    },
+    {
+      "id": 3,
+      "name": "test name",
+      "email": "test email",
+      "mobile": "089",
+      "city": "test city"
+    },
+    {
+      "id": 4,
+      "name": "test name",
+      "email": "test email",
+      "mobile": "test mobile",
+      "city": "test city"
+    },
+    {
+      "id": 5,
+      "name": "test name 2",
+      "email": "test email 2",
+      "mobile": "85",
+      "city": "test city 2"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
